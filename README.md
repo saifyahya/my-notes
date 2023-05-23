@@ -7,6 +7,6 @@ passionate and goal achieving electrical engineer. I graduated from the Hashemit
 1.The different between CLI and GUI.
 2.Terminal Commands: creating directory, deletion, addfiles and change path.
 3.Understand the concept of VSC and how to generate SSH key and clone a repo.
-4. Difference between GitHub and Git, and Git commands.
-5. A-C-P process.
-6. 6. Markdown language.
+4.Difference between GitHub and Git, and Git commands.
+5.A-C-P process.
+6.Markdown language.
